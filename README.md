@@ -1,87 +1,63 @@
-<!-- Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0EF7D7,100:0A192F&text=PouCode&fontColor=ffffff&fontSize=44&animation=fadeIn" />
 </p>
 
-<h3 align="center">Open Source Developer</h3>
+<h3 align="center">Open Source Developer (dan tukang begadang profesional)</h3>
+<p align="center">Ngoprek library WhatsApp, bikin bot, sama otomatisasi pake JavaScript — sisanya ngopi.</p>
+
+---
+
+## Tentang Gw
+
+Halo, gw Pou.
+
+Kerjaan gw sehari-hari: buka VS Code, `console.log` sesuatu, bengong 10 menit, terus tiba-tiba paham kenapa error-nya. Kebanyakan waktu gw abis buat ngoprek Baileys, bikin bot WhatsApp, dan mikirin kenapa WA Web bisa se-ribet itu di belakang layar — padahal kelihatannya cuma chat biasa.
+
+Gak ada latar belakang formal komputer sains yang keren-keren, ini semua murni hasil iseng malem-malem yang gak sengaja jadi kebiasaan (dan sekarang jadi identitas).
+
+Kalau kode gw jalan, itu keajaiban. Kalau enggak, itu fitur.
+
+---
+
+## Yang Lagi Gw Kerjain
+
+**Baileys**
+Fork Baileys yang gw utak-atik sendiri — nambahin API dan fitur eksperimental yang kadang gw sendiri lupa kenapa dulu bikin itu.
+
+**Osiris WhatsApp Bot**
+Bot WA fitur lengkap, arsitektur ESM. Serius dikit dari proyek-proyek gw yang lain.
+
+**Kamiya**
+Bot WA versi ringan, CommonJS, cocok buat yang mau belajar tanpa pusing sama struktur yang ribet-ribet amat.
+
+---
+
+## Senjata Sehari-hari
 
 <p align="center">
-Building WhatsApp libraries, bots, and automation tools with JavaScript.
+  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,git,vscode&theme=dark"/>
 </p>
 
 ---
 
-## About
-
-Hi, I'm Pou.
-
-I enjoy building open-source projects around the WhatsApp ecosystem using JavaScript and Node.js. Most of my time is spent experimenting with Baileys, creating bot frameworks, and learning more about how WhatsApp Web works behind the scenes.
-
-I'm always learning and improving through personal projects.
-
----
-
-## Current Projects
-
-### Baileys
-A modified version of Baileys with additional APIs, improvements, and experimental WhatsApp features.
-
-### Osiris WhatsApp Bot
-A feature-rich WhatsApp bot built with an ESM architecture.
-
-### Kamiya
-A lightweight WhatsApp bot with a simple CommonJS structure, suitable for learning and customization.
-
----
-
-## Tech Stack
+## Bukti Gw Beneran Ngoding (Bukan Cuma Ngoceh)
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,nodejs,html,css,git,vscode&theme=dark"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pou-code&show_icons=true&hide_border=true&theme=github_dark"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pou-code&layout=compact&hide_border=true&theme=github_dark"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pou-code&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
 
-## GitHub Statistics
+## Colek Gw
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pou-code&show_icons=true&hide_border=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pou-code&layout=compact&hide_border=true&theme=github_dark"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=pou-code&theme=github-dark-blue&hide_border=true"/>
-</p>
+- Website: https://pxp.poumodss.my.id
+- Telegram: https://t.me/PouSkibudi
+- WhatsApp: https://wa.me/6283131354890
 
 ---
 
-## Contact
-
-- Website — https://pxp.poumodss.my.id
-- Telegram — https://t.me/PouSkibudi
-- WhatsApp — https://wa.me/6283131354890
-
----
-
-<p align="center">
-<i>"Keep learning, keep building."</i>
-</p></p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=pou-code&theme=github-dark-blue&hide_border=true"/>
-</p>
-
----
-
-## Contact
-
-- Website — https://pxp.poumodss.my.id
-- Telegram — https://t.me/PouSkibudi
-- WhatsApp — https://wa.me/6283131354890
-
----
-
-<p align="center">
-<i>"Write code. Learn. Improve. Repeat."</i>
-</p>
+<p align="center"><i>Nulis kode, error, panik, googling, fix, lupa kenapa fix-nya jalan.</i></p>
