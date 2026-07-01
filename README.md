@@ -1,4 +1,3 @@
-````md
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0EF7D7,100:0A192F&text=PouCode&fontColor=ffffff&fontSize=44&animation=fadeIn" />
 </p>
@@ -132,4 +131,3 @@ https://wa.me/6283131354890
   <br><br>
   <i>"Belajar bukan soal siapa yang paling cepat, tapi siapa yang gak berhenti waktu nemu error."</i>
 </p>
-```
