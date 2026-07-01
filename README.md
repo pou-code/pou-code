@@ -18,7 +18,7 @@ Ngoprek WhatsApp Web, bikin bot, reverse engineering, dan belajar hal baru setia
 
 <p align="center">
 
-  <img src="URL_FOTO_KAMU" width="180" alt="Pou"/>
+  <img src="https://files.catbox.moe/rawhvf.jpg" width="180" alt="Pou"/>
 
 </p>
 
