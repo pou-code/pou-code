@@ -169,5 +169,3 @@ https://wa.me/6283131354890
   <i>"Belajar bukan soal siapa yang paling cepat, tapi siapa yang gak berhenti waktu nemu error."</i>
 
 </p>
-
-  jos jis kan gaya penuli
