@@ -4,7 +4,7 @@
 
 </p>
 
-<h3 align="center">Open Source Developer (dan tukang begadang profesional)</h3>
+<h3 align="center">Open Source Developer</h3>
 
 <p align="center">
 
